@@ -5,6 +5,7 @@ It is my first repository.
 This program helps to calculate the square of a number.
 
 ## Usage
+Input number n.
 
 ## Installation
 
