@@ -8,6 +8,7 @@ This program helps to calculate the square of a number.
 Input number n.
 
 ## Installation
-Download the program and launch it.
+Download the program and extract it.
 
 ## Running
+After extracting the program just launch the exe file.
